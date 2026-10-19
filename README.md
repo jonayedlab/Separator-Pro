@@ -73,7 +73,7 @@ Need help getting the software or choosing a license?
 
 </div>
 
-> **Repository setup required:** Replace `https://github.com/jonayedlab/Separator-Pro` in the download links and badge with the actual repository URL. Publish a GitHub Release and attach the official `separator.exe` (or a ZIP package) before advertising the download button. The button cannot download a release asset that has not been published.
+> **Repository setup required:** 
 
 Only download releases published by Jonayed Lab. Verify a published checksum when available; a checksum by itself is not a digital signature.
 
