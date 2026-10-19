@@ -27,7 +27,7 @@ Scan nested folders, collect matching lines, and save organized results—withou
 
 ---
 
-![Separator Pro extraction dashboard](site/assets/img/dashboard.png)
+![Separator Pro extraction dashboard](dashboard.png)
 
 > Interface preview uses sample data. The appearance may vary with Windows version and display scaling.
 
